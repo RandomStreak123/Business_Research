@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Environments
+venv/
+env/
+.env
+
+# Windows metadata
+*:Zone.Identifier
+
+# IDE and editor settings
+.vscode/*
+!.vscode/settings.json
+
+# Test & coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and transient data
+*.log
+
+# Generated reports & logs (keep directory structure via .gitkeep)
+data/reports/*.docx
+data/logs/*.log.jsonl
+!data/reports/.gitkeep
+!data/logs/.gitkeep

@@ -1,0 +1,11 @@
+﻿{
+  "python.defaultInterpreterPath": "C:\\Users\\ajith.un\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/venv/lib/python3.10/site-packages",
+    "\\\\wsl.localhost\\Ubuntu-22.04\\home\\ajith\\agent_research_backend_v3\\venv\\lib\\python3.10\\site-packages"
+  ],
+  "python.pyrefly.configPath": "${workspaceFolder}/pyrefly.toml",
+  "workbench.editorAssociations": {
+    "*.docx": "cweijan.officeViewer"
+  }
+}

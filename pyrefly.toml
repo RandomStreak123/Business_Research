@@ -1,0 +1,28 @@
+project-includes = [
+    "**/*.py*",
+    "**/*.ipynb",
+]
+
+search-path = [
+    "\\\\wsl.localhost\\Ubuntu-22.04\\home\\ajith\\agent_research_backend_v3\\venv\\lib\\python3.10\\site-packages",
+]
+
+replace-imports-with-any = [
+    "docx",
+    "docx.enum.text",
+    "docx.oxml",
+    "docx.oxml.ns",
+    "docx.shared",
+    "openai",
+    "tavily",
+]
+
+ignore-missing-imports = [
+    "docx",
+    "docx.enum.text",
+    "docx.oxml",
+    "docx.oxml.ns",
+    "docx.shared",
+    "openai",
+    "tavily",
+]

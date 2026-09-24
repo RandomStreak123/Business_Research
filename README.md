@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/1384901670/a52c961d-3d24-492a-a5e6-603c659f340f" alt="Business Research Platform" width="100%">
+</p>
+
 # Agent Research Backend — Enterprise Business Edition
 
 A high-speed, terminal-based multi-agent system designed for business and corporate strategy teams. It turns a product or business idea into an executive-ready market, competitor, and risk research report delivered strictly as a formatted **Microsoft Word (.docx)** document.

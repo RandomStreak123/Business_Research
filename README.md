@@ -69,4 +69,4 @@ Supervisor (Orchestrator)
    ├── EvaluationSkill ─▶ Evaluator Agent (Concurrent 4-Point Rubric Audits)
    ├── SummarySkill (Synthesizes executive summary within token budgets)
    └── ReportSkill (Builds styled Microsoft Word .docx report)
-```
+```# Business_Research
